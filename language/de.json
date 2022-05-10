@@ -30,6 +30,19 @@
           },
           {
             "label": "Zoomen und Verschieben des Bildes ermöglichen"
+          },
+          {
+            "label": "Rückmeldung",
+            "fields": [
+              {
+                "label": "Nachricht, wenn Antwort gewählt wurde",
+                "description": "Nachricht wird unter der Antwort nach dem Klicken auf \"Überprüfen\" (oder \"Lösung anzeigen\" wenn aktiviert) angezeigt, wenn die Antwort gewählt wurde."
+              },
+              {
+                "label": "Nachricht, wenn Antwort nicht gewählt wurde",
+                "description": "Nachricht wird unter der Antwort nach dem Klicken auf \"Überprüfen\" (oder \"Lösung anzeigen\" wenn aktiviert) angezeigt, wenn die Antwort nicht gewählt wurde."
+              }
+            ]
           }
         ]
       }

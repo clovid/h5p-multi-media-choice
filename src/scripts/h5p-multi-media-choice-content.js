@@ -264,6 +264,13 @@ export default class MultiMediaChoiceContent {
   }
 
   /**
+   * Show feedback below each option (if available)
+   */
+  showOptionFeedback() {
+    this.options.forEach(option => option.showFeedback());
+  }
+
+  /**
    * Hide the solution(s) cues
    */
   hideSolutions() {
