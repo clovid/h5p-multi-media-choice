@@ -1,5 +1,5 @@
 {
-  "title": "Image Choice",
+  "title": "Image Choice with Feedback and Zooming",
   "description": "Create an Image Choice",
   "majorVersion": 0,
   "minorVersion": 3,
@@ -7,7 +7,7 @@
   "runnable": 1,
   "author": "Joubel AS",
   "license": "MIT",
-  "machineName": "H5P.MultiMediaChoice",
+  "machineName": "H5P.MultiMediaChoiceWithFeedback",
   "embedTypes": [
     "iframe"
   ],
