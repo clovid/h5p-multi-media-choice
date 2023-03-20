@@ -27,6 +27,22 @@
           },
           {
             "label": "Correct"
+          },
+          {
+            "label": "Enable image zooming and panning"
+          },
+          {
+            "label": "Feedback",
+            "fields": [
+              {
+                "label": "Message displayed if answer is selected",
+                "description": "Message will appear below the answer on \"Check\" (or \"Show solution\" if enabled) if this answer is selected."
+              },
+              {
+                "label": "Message displayed if answer is not selected",
+                "description": "Message will appear below the answer on \"Check\" (or \"Show solution\" if enabled) if this answer is not selected."
+              }
+            ]
           }
         ]
       }
